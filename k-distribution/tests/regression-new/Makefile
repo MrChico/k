@@ -37,6 +37,7 @@ SUBDIRS=issue-2273 \
 	fatalWarnings \
 	symbolic-int-function \
 	map-symbolic-tests \
+	ite-bug \
 
 
 include ../../include/ktest-group.mak
